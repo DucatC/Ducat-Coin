@@ -92,7 +92,7 @@ protected:
     int nPOSStartBlock;
     int nPoolMaxTransactions;
     std::string strDarksendPoolDummyAddress;
-    std::string strSporkKey;
+  //  std::string strSporkKey;
     //std::string strMasternodePaymentsPubKey;
 };
 
